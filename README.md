@@ -1,9 +1,9 @@
 # ParseChat
-# Lab 4 - *Name of App Here*
+# Lab 4 - *ParseChatt*
 
-**Name of your app** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
+**ParseChatt** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
